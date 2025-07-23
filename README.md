@@ -1,4 +1,4 @@
-# Credit_score_detector
+# Credit_score_analyzer
 
 
 A comprehensive machine learning system that analyzes Aave V2 protocol transaction patterns to assign credit scores (0-1000) to DeFi wallet addresses. The system identifies reliable, long-term users while flagging risky or manipulative behavior patterns.
